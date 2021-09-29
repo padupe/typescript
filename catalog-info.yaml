@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: padupe/typescript
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: staging
   owner: squad-sre-architecture-carpentry
