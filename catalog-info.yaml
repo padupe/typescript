@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: typescript
+  annotations:
+    github.com/project-slug: padupe/typescript
+spec:
+  type: other
+  lifecycle: staging
+  owner: squad-sre-architecture-carpentry
